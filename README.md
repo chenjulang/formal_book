@@ -1,3 +1,5 @@
+一键打开：https://gitpod.io/new/#https://github.com/chenjulang/formal_book
+
 # Formal BOOK
 
 A collaborative, work-in-progress attempt to formalize [Proofs from THE BOOK](https://link.springer.com/book/10.1007/978-3-662-57265-8) using [Lean4](https://leanprover.github.io/lean4/doc/whatIsLean.html).
